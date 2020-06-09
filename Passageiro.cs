@@ -1,0 +1,16 @@
+namespace Aula13_Sprint4_Uber
+{
+    public class Passageiro : Usuario
+    {
+        public string ProcurarMotorista(){
+            return "Procurando motoristas disponíveis...";
+        }
+        public string Pagar(string statusCorrida){
+            if(statusCorrida == "Finalizada"){
+                return "Pagamento efetuado";
+            }
+            return "Procurando motoristas disponíveis...";
+        }
+
+    }
+}
