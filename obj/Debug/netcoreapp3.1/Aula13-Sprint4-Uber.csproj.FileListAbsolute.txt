@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.exe
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.dll
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\bin\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.dll
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula13-Sprint4-Uber\obj\Debug\netcoreapp3.1\Aula13-Sprint4-Uber.genruntimeconfig.cache

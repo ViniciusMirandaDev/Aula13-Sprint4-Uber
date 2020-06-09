@@ -2,6 +2,7 @@ namespace Aula13_Sprint4_Uber
 {
     public class Usuario
     {
+        public string resposta;
         public string Nome { get; set; }
         private string login = "paulo@gmail.com";
         private string senha = "123456789";
